@@ -21,3 +21,6 @@ springboot558基于SpringBoot的动物领养平台
 ![image](https://github.com/user-attachments/assets/070a35ce-61ed-4666-9111-b1e320571836)
 ![image](https://github.com/user-attachments/assets/e47702f6-93ad-43bb-b544-ebd5665f7c65)
 ![image](https://github.com/user-attachments/assets/7cdb0068-0a02-4304-bc51-1ee0c6be7240)
+![image](https://github.com/user-attachments/assets/c674a203-3220-4295-91f7-3bb95980dede)
+![image](https://github.com/user-attachments/assets/fa821d47-58b3-486b-acbf-ea6a0da798fa)
+![image](https://github.com/user-attachments/assets/90fd54e7-5bf7-4af0-ab92-f29bd6d60753)
